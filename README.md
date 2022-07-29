@@ -5,7 +5,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/k_popov.a?igshid=YmMyMTA2M2Y=" target="_blank>
+  <a href="https://instagram.com/k_popov.a?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/k_popov_a" target="_blank">
