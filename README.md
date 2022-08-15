@@ -24,7 +24,7 @@ I'm junior front-end  developer from Ukraine
 
 - :seedling: I'm very excited, that I could learn something new day after day.
 
-- :zap: In my free time, I like going to the gym, whatching films or shows on english and drawing.
+- :zap: In my free time, I like going to the gym, whatching films, reading books and drawing.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-k_popova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/k_popov_a)
 - ---
