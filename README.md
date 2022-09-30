@@ -37,6 +37,8 @@ I'm junior front-end  developer from Ukraine
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40">&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" width="40" height="40">&nbsp;
 ---
 
 ### :fire: My Stats :
