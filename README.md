@@ -18,9 +18,9 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I'm junior front-end  developer from Ukraine
+I'm front-end  developer from Ukraine
 
-- :telescope: Currently I’m styding at Netherland's IT company. Besides I attend differnt frontend courses.
+- :telescope: Currently I’m working in CHI Software. Besides I attend differnt frontend courses.
 
 - :seedling: I'm very excited, that I could learn something new day after day.
 
